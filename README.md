@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github-banner.png" alt="Aminul Islam GitHub Banner" width="100%">
+  <img src="github-banner.png" alt="Aminul Islam GitHub Banner" width="100%">
 </div>
 
 # 👋 HI, I'M AMINUL ISLAM
