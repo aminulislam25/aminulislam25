@@ -1,186 +1,33 @@
-<div align="center">
-
-  <img src="./github-banner.png" width="100%"
-       alt="Aminul Islam Portfolio Banner"/>
-
-  <br/>
-
-  <h1>
-    <span style="color:#247BFF;">AMINUL</span>
-    <span style="color:#FF354F;"> ISLAM</span>
-  </h1>
-
-  <h3>
-    MCA STUDENT | ASPIRING DATA ANALYST | FUTURE ENTREPRENEUR
-  </h3>
-
-  <p>
-    <i>Learning Today. Building Tomorrow. Creating Impact.</i>
-  </p>
-
-  <a href="https://github.com/aminulislam25">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"
-         alt="GitHub Profile"/>
-  </a>
-
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
-         alt="LinkedIn Profile"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=247BFF&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+Data+Analyst;Technology+Enthusiast;Future+Entrepreneur"
-       alt="Animated introduction"/>
-
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#070b16">
+<meta name="description" content="Aminul Islam — MCA student, aspiring data analyst, technology enthusiast, and future entrepreneur.">
+<title>Aminul Islam | Portfolio</title>
+<style>
+:root{--bg:#070b16;--panel:#0c1425;--panel2:#101c31;--line:#213957;--blue:#2584ff;--cyan:#24d5ff;--red:#ff405b;--text:#eef5ff;--muted:#a7b6ce;--green:#40dfb2;--radius:20px;--shadow:0 18px 50px #0005}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 12% 0%,#112750 0,transparent 35%),radial-gradient(ellipse at 90% 20%,#15152f 0,transparent 35%),var(--bg);color:var(--text);font:16px/1.65 Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}a{color:inherit;text-decoration:none}.wrap{width:min(1160px,calc(100% - 32px));margin:auto}.hero-banner{margin:22px auto 0;border:1px solid #294b78;border-radius:22px;overflow:hidden;box-shadow:var(--shadow);position:relative}.hero-banner img{display:block;width:100%;height:auto;max-height:360px;object-fit:cover}.nav{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:18px 0}.brand{font-weight:850;letter-spacing:.05em}.brand span{color:var(--cyan)}.navlinks{display:flex;gap:20px;color:var(--muted);font-size:.92rem}.navlinks a:hover{color:var(--cyan)}.intro{display:grid;grid-template-columns:180px 1fr 250px;gap:28px;align-items:center;padding:34px 0 28px}.avatar{width:170px;aspect-ratio:1;border-radius:50%;padding:5px;background:linear-gradient(140deg,var(--cyan),var(--blue),var(--red));box-shadow:0 0 32px #2584ff40}.avatar-inner{width:100%;height:100%;border-radius:50%;background:linear-gradient(135deg,#182b47,#07101f);display:grid;place-items:center;text-align:center;font-size:2.8rem;font-weight:900;letter-spacing:-.1em}.eyebrow{color:var(--cyan);font-size:.82rem;letter-spacing:.2em;text-transform:uppercase;font-weight:800}.intro h1{font-size:clamp(2.5rem,5vw,4.6rem);line-height:1.03;letter-spacing:-.055em;margin:8px 0 12px}.gradient{background:linear-gradient(90deg,#fff 4%,var(--cyan) 42%,var(--blue) 70%,#a6baff);-webkit-background-clip:text;background-clip:text;color:transparent}.subtitle{font-size:1.12rem;color:#d7e5fa;margin:0 0 12px}.bio{color:var(--muted);max-width:690px;margin:0}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.chip{border:1px solid #2a4b70;background:#0b1930;border-radius:999px;padding:6px 11px;font-size:.82rem;color:#dbeaff}.quickfacts{border-left:1px solid var(--line);padding-left:22px;display:grid;gap:13px;color:#dbe7fa}.quickfacts div{display:flex;gap:10px;align-items:center;font-size:.9rem}.quickfacts b{color:var(--cyan);font-size:1.1rem}.actions{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0 12px}.btn{display:inline-flex;justify-content:center;align-items:center;gap:10px;padding:12px 17px;border-radius:12px;border:1px solid #35557c;background:linear-gradient(135deg,#0f1c31,#0a1222);font-weight:750;transition:.2s;box-shadow:0 6px 22px #0003}.btn:hover{transform:translateY(-3px);border-color:var(--cyan);box-shadow:0 10px 28px #2584ff20}.btn.primary{background:linear-gradient(110deg,#1674ef,#16a9ed);border-color:#40bdff;color:white}.btn.linkedin{background:linear-gradient(110deg,#0a66c2,#164e91);border-color:#368bda}.section{margin:20px 0;padding:24px;border:1px solid var(--line);border-radius:var(--radius);background:linear-gradient(140deg,#0b1424ed,#080e1aeb);box-shadow:var(--shadow)}.section-head{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:18px}.section h2{font-size:1.35rem;margin:0;letter-spacing:.015em}.section h2 span{color:var(--cyan)}.section-note{color:var(--muted);font-size:.88rem}.skills{display:flex;flex-wrap:wrap;gap:12px}.skill{min-width:120px;flex:1 1 120px;display:flex;align-items:center;gap:10px;padding:13px;border:1px solid #2a4264;background:#0c1a30;border-radius:13px;font-weight:700}.skill .ico{font-size:1.25rem;color:var(--cyan)}.skill small{display:block;color:var(--muted);font-weight:500}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.card{border:1px solid #263f61;border-radius:16px;padding:20px;background:linear-gradient(145deg,#0f1c31,#0a1221);transition:.2s}.card:hover{transform:translateY(-3px);border-color:#2584ff}.card h3{margin:0 0 8px;font-size:1.08rem}.card p{color:var(--muted);margin:0 0 14px}.tags{display:flex;gap:7px;flex-wrap:wrap}.tag{font-size:.75rem;border-radius:999px;padding:4px 9px;background:#152844;color:#b9d7ff;border:1px solid #2a4c74}.card-link{display:inline-flex;margin-top:16px;color:var(--cyan);font-weight:700;font-size:.9rem}.stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;align-items:stretch}.statbox{min-width:0;min-height:220px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:22px;border:1px solid #2a466b;border-radius:16px;background:linear-gradient(145deg,#101d34,#0a1220);overflow:hidden}.stat-icon{font-size:2rem;color:var(--cyan)}.statbox h3{margin:10px 0 4px}.statbox p{color:var(--muted);margin:0}.metric{font-size:2rem;font-weight:900;color:var(--cyan);line-height:1.3}.barlist{width:100%;max-width:360px;margin-top:12px;display:grid;gap:10px;text-align:left}.barrow{display:grid;grid-template-columns:80px 1fr 42px;gap:10px;align-items:center;font-size:.82rem;color:#d9e8ff}.bar{height:8px;border-radius:99px;background:#1b2a42;overflow:hidden}.bar i{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,var(--blue),var(--cyan))}.goals{display:grid;gap:12px}.goal{display:grid;grid-template-columns:42px 1fr auto;gap:12px;align-items:center;padding:13px;border-radius:13px;background:#0c192b;border:1px solid #1e3552}.goal-icon{width:38px;height:38px;border-radius:12px;display:grid;place-items:center;background:#142d4c;color:var(--cyan);font-size:1.15rem}.goal p{margin:2px 0 0;color:var(--muted);font-size:.87rem}.status{font-size:.75rem;padding:5px 9px;border-radius:999px;background:#123c3a;color:#73f4cf;border:1px solid #23645c;white-space:nowrap}.timeline{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.milestone{border-top:2px solid #28517a;padding:14px 8px 0;position:relative}.milestone:before{content:"";position:absolute;width:10px;height:10px;border-radius:50%;background:var(--cyan);top:-6px;left:8px;box-shadow:0 0 14px #24d5ff80}.milestone strong{display:block}.milestone span{font-size:.85rem;color:var(--muted)}.contactbox{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}.contactbox p{color:var(--muted);margin:4px 0 0}.footer{text-align:center;color:var(--muted);padding:30px 0 42px}.footer strong{color:var(--text)}.footer .motto{font-weight:850;letter-spacing:.12em;color:var(--cyan)}
+@media(max-width:850px){.intro{grid-template-columns:120px 1fr;gap:20px}.avatar{width:115px}.quickfacts{grid-column:1/-1;border-left:0;border-top:1px solid var(--line);padding:18px 0 0;grid-template-columns:repeat(2,minmax(0,1fr))}.navlinks{gap:10px}.grid{grid-template-columns:1fr}}
+@media(max-width:560px){.wrap{width:min(100% - 20px,1160px)}.nav{align-items:flex-start}.navlinks{display:none}.hero-banner{margin-top:10px;border-radius:14px}.intro{grid-template-columns:1fr;text-align:center;padding-top:26px}.avatar{margin:auto;width:130px}.chips,.actions{justify-content:center}.quickfacts{grid-template-columns:1fr 1fr;text-align:left}.section{padding:16px;margin:13px 0}.section-head{align-items:flex-start;flex-direction:column;gap:4px}.stats{grid-template-columns:1fr}.statbox{min-height:200px}.timeline{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:22px}.goal{grid-template-columns:38px 1fr}.status{grid-column:2;justify-self:start}.subtitle{font-size:1rem}.intro h1{font-size:2.7rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="nav"><a class="brand" href="#top">AMINUL<span>.</span>ISLAM</a><div class="navlinks"><a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#stats">Stats</a><a href="#contact">Contact</a></div></nav>
+  <header class="hero-banner" id="top"><img src="assets/github-banner.png" alt="Aminul Islam cinematic technology banner"></header>
+  <section class="intro" id="about">
+    <div class="avatar"><div class="avatar-inner">AI</div></div>
+    <div><div class="eyebrow">Hello, welcome to my portfolio</div><h1><span class="gradient">Aminul Islam</span></h1><p class="subtitle">MCA Student <b>·</b> Aspiring Data Analyst <b>·</b> Future Entrepreneur</p><p class="bio">I'm passionate about technology, data, and building practical solutions. Currently pursuing my MCA and strengthening my skills in Python, SQL, and web development. My long-term vision is to build meaningful services through SureNest Home Services.</p><div class="chips"><span class="chip">✦ Continuous learning</span><span class="chip">⌘ Problem-solving</span><span class="chip">↗ Entrepreneurial vision</span></div><div class="actions"><a class="btn primary" href="https://github.com/aminulislam25" target="_blank" rel="noreferrer">◉ View GitHub</a><a class="btn linkedin" href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noreferrer">in LinkedIn</a><a class="btn" href="mailto:aminulislam25@gmail.com">✉ Contact me</a></div></div>
+    <aside class="quickfacts"><div><b>⌖</b><span>Musaffah, Abu Dhabi, UAE</span></div><div><b>▣</b><span>MCA Student</span></div><div><b>▥</b><span>Aspiring Data Analyst</span></div><div><b>⌘</b><span>Web Development Learner</span></div><div><b>◎</b><span>Future Entrepreneur</span></div><div><b>↗</b><span>Always learning & growing</span></div></aside>
+  </section>
+  <section class="section" id="skills"><div class="section-head"><h2>⚙️ <span>Technologies & Skills</span></h2><span class="section-note">Tools I use and continue to learn</span></div><div class="skills"><div class="skill"><span class="ico">🐍</span><div>Python<small>Programming</small></div></div><div class="skill"><span class="ico">▤</span><div>SQL<small>Databases</small></div></div><div class="skill"><span class="ico">◈</span><div>PHP<small>Web development</small></div></div><div class="skill"><span class="ico">▦</span><div>MySQL<small>Database</small></div></div><div class="skill"><span class="ico">🌐</span><div>HTML5 / CSS3<small>Web fundamentals</small></div></div><div class="skill"><span class="ico">◉</span><div>GitHub<small>Code & projects</small></div></div></div></section>
+  <section class="section" id="projects"><div class="section-head"><h2>📁 <span>Featured Projects</span></h2><a class="card-link" href="https://github.com/aminulislam25?tab=repositories" target="_blank" rel="noreferrer">View repositories ↗</a></div><div class="grid"><article class="card"><h3>🗳️ Online Voting System</h3><p>A web-based project focused on online voting functionality, vote management, and result display.</p><div class="tags"><span class="tag">PHP</span><span class="tag">MySQL</span><span class="tag">HTML</span><span class="tag">CSS</span></div><a class="card-link" href="https://github.com/aminulislam25?tab=repositories">Explore repositories →</a></article><article class="card"><h3>📊 Data Analytics Portfolio</h3><p>A growing space for practical exercises and future data analysis and visualization projects.</p><div class="tags"><span class="tag">Python</span><span class="tag">SQL</span><span class="tag">Data analysis</span></div><a class="card-link" href="https://github.com/aminulislam25?tab=repositories">Explore repositories →</a></article></div></section>
+  <section class="section" id="stats"><div class="section-head"><h2>📈 <span>GitHub Snapshot</span></h2><span class="section-note">Live stats depend on the public GitHub Stats service</span></div><div class="stats"><div class="statbox"><div class="stat-icon">⌘</div><h3>Explore My Work</h3><div class="metric">GitHub</div><p>Repositories, commits, and projects</p><a class="btn" href="https://github.com/aminulislam25" target="_blank" rel="noreferrer">Open GitHub ↗</a></div><div class="statbox"><div class="stat-icon">▥</div><h3>Technology Interests</h3><p>Skills and learning areas</p><div class="barlist"><div class="barrow"><span>Python</span><div class="bar"><i style="width:75%"></i></div><span>Learn</span></div><div class="barrow"><span>SQL</span><div class="bar"><i style="width:70%"></i></div><span>Learn</span></div><div class="barrow"><span>Web</span><div class="bar"><i style="width:65%"></i></div><span>Build</span></div></div></div></div></section>
+  <section class="section"><div class="section-head"><h2>🎯 <span>Current Focus & Goals</span></h2></div><div class="goals"><div class="goal"><div class="goal-icon">🎓</div><div><strong>Complete MCA</strong><p>Build strong foundations in computer applications.</p></div><span class="status">In progress</span></div><div class="goal"><div class="goal-icon">🐍</div><div><strong>Improve Python & SQL</strong><p>Practice consistently and develop practical projects.</p></div><span class="status">Learning</span></div><div class="goal"><div class="goal-icon">📂</div><div><strong>Build a Professional Portfolio</strong><p>Showcase practical work and keep improving.</p></div><span class="status">Ongoing</span></div><div class="goal"><div class="goal-icon">🚀</div><div><strong>Entrepreneurship</strong><p>Work toward the long-term SureNest Home Services vision.</p></div><span class="status">Long-term</span></div></div></section>
+  <section class="section"><div class="section-head"><h2>🧭 <span>My Journey</span></h2></div><div class="timeline"><div class="milestone"><strong>Diploma in IT</strong><span>2021–2022</span></div><div class="milestone"><strong>Diploma in Computing</strong><span>2022–2025</span></div><div class="milestone"><strong>MCA (Online)</strong><span>2026 onward</span></div><div class="milestone"><strong>Build & Grow</strong><span>Career + SureNest vision</span></div></div></section>
+  <section class="section" id="contact"><div class="contactbox"><div><h2>🤝 <span>Let's Connect</span></h2><p>Let's exchange ideas, keep learning, and build something meaningful.</p></div><div class="actions"><a class="btn primary" href="https://github.com/aminulislam25" target="_blank" rel="noreferrer">◉ GitHub</a><a class="btn linkedin" href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noreferrer">in LinkedIn</a><a class="btn" href="mailto:aminulislam25@gmail.com">✉ Email</a></div></div></section>
+  <footer class="footer"><div class="motto">LEARN · BUILD · GROW</div><p><strong>Same person. Bigger dreams.</strong></p><small>© <span id="year">2026</span> Aminul Islam · Personal portfolio</small></footer>
 </div>
-
----
-
-## 👋 ABOUT ME
-
-Hi, I'm **Aminul Islam** — an MCA student building my future through technology, continuous learning, and practical projects.
-
-- 🎓 **Education:** Master of Computer Applications (MCA)
-- 📊 **Career Interest:** Data Analytics and Technology
-- 🐍 **Programming:** Python and SQL
-- 🌐 **Web Development:** PHP, HTML, CSS, and MySQL
-- 💡 **Interests:** Problem-solving, innovation, and entrepreneurship
-- 🚀 **Long-Term Vision:** Building SureNest Home Services
-
-> My goal is to keep learning, develop practical skills, and create solutions that deliver real value.
-
----
-
-## ⚙️ TECHNOLOGIES & SKILLS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-</div>
-
----
-
-## 📂 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗳️ Online Voting System
-
-A web-based project focused on online voting functionality.
-
-**Technologies**
-- PHP
-- MySQL
-- HTML and CSS
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data Analytics Portfolio
-
-A growing collection of practical exercises and future analytics projects.
-
-**Focus Areas**
-- Python
-- SQL
-- Data Analysis
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/aminulislam25?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-247BFF?style=for-the-badge&logo=github"
-       alt="Explore Projects"/>
-</a>
-
-</div>
-
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<a href="https://github.com/aminulislam25">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=aminulislam25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-       alt="Aminul's GitHub Statistics"/>
-</a>
-
-<a href="https://github.com/aminulislam25">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislam25&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-       alt="Most Used Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminulislam25&theme=tokyonight&hide_border=true"
-     alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🎯 CURRENT FOCUS & GOALS
-
-| Area | Goal |
-|:---|:---|
-| 🎓 Education | Complete my MCA successfully |
-| 🐍 Programming | Strengthen Python and SQL fundamentals |
-| 📈 Analytics | Develop practical data analysis skills |
-| 💼 Career | Build a professional portfolio |
-| 🚀 Entrepreneurship | Work towards the SureNest vision |
-
----
-
-## 🌱 MY PHILOSOPHY
-
-<div align="center">
-
-### THINK BIGGER. LEARN DAILY. BUILD YOUR FUTURE.
-
-| Discipline | Growth | Vision |
-|:---:|:---:|:---:|
-| 🎯 Focus on goals | 📚 Learn consistently | 🚀 Build for the future |
-
-</div>
-
----
-
-## 🤝 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/aminulislam25">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"
-       alt="GitHub"/>
-</a>
-
-<a href="YOUR_LINKEDIN_PROFILE_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
-       alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-**TECHNOLOGY · LEARNING · GROWTH · IMPACT**
-
-*Same Person. Bigger Dreams.*
-
-**— Aminul Islam**
-
-</div>
+</body>
+</html>
